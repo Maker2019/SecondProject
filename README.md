@@ -1,2 +1,2 @@
-# SecondProject
-Intro to GIT
+# Second Project
+Intro to GIT. Introduction to GIT
